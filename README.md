@@ -1,17 +1,11 @@
-### Hi there 👋
+<div align="center">
+  
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=100&section=header&&text=Hi%20there&fontSize=50&animation=twinkling&fontColor=cccccc&fontAlignY=80)
 
-<!--
-**overtae/overtae** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=overtae&layout=compact&langs_count=6" style="height:150px;border-radius:50px;" /></a>
+<a href="https://opgc.me/#/users/overtae" target="_blank"><img src="https://api.opgc.me/githubs/users/overtae/tag/?theme=rainbow" style="height:150px;" /></a>
+<!-- <img align="center" src="/github-metrics.svg" alt="Metrics" width="400"> -->
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=overtae&layout=compact)](https://github.com/overtae/github-readme-stats)
+![footer](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&reversal=true&height=100&section=footer)
+  
+</div>
