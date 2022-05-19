@@ -16,7 +16,7 @@ jobs:
     steps:
       - uses: Platane/snk@v2
         with:
-          github_user_name: ${{ github.repository_owner }}
+          github_user_name: overtae
           outputs: |
             dist/github-snake.svg
             dist/github-snake-dark.svg?palette=github-dark
