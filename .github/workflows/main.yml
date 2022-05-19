@@ -1,8 +1,8 @@
-name: Snake
+name: Snake Animation
 
 on:
   schedule:
-    - cron: "0 12 * * *" 
+    - cron: "0 0 * * *" 
   push:
     branches: [ main ]
   pull_request:
