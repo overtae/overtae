@@ -7,7 +7,6 @@
   
 <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=overtae&layout=compact&langs_count=6" style="height:150px;border-radius:50px;" /></a>
 <a href="https://opgc.me/#/users/overtae" target="_blank"><img src="https://api.opgc.me/githubs/users/overtae/tag/?theme=rainbow" style="height:150px;" /></a>
-<!-- <img align="center" src="/github-metrics.svg" alt="Metrics" width="400"> -->
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&reversal=true&height=100&section=footer)
   
