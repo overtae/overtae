@@ -1,6 +1,6 @@
 <div align="center">
   
-![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=100&section=header&&text=Hi%20there&fontSize=50&animation=twinkling&fontColor=cccccc&fontAlignY=80)
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=100&section=header&&text=Hello,%20There&fontSize=50&animation=twinkling&fontColor=cccccc&fontAlignY=80)
 
 ![Snake](https://github.com/overtae/overtae/blob/output/github-snake.svg#gh-light-mode-only)
 ![Snake](https://github.com/overtae/overtae/blob/output/github-snake-dark.svg#gh-dark-mode-only)
