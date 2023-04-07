@@ -1,12 +1,11 @@
 <div align="center">
   
-![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=100&section=header&&text=Hello,%20There&fontSize=50&animation=twinkling&fontColor=cccccc&fontAlignY=80)
-
-![Snake](https://github.com/overtae/overtae/blob/output/github-snake.svg#gh-light-mode-only)
-![Snake](https://github.com/overtae/overtae/blob/output/github-snake-dark.svg#gh-dark-mode-only)
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=130&section=header&&text=Hello,%20I'm%20taeyoung&fontSize=50&animation=twinkling&fontColor=cccccc&fontAlignY=80)
   
-<a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=overtae&layout=compact&langs_count=6" style="height:150px;border-radius:50px;" /></a>
-<a href="https://opgc.me/#/users/overtae" target="_blank"><img src="https://api.opgc.me/githubs/users/overtae/tag/?theme=rainbow" style="height:150px;" /></a>
+<span>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=overtae&layout=compact&langs_count=6" style="height:180px;border-radius:50px;" />
+<img src="https://github-readme-stats.vercel.app/api?username=overtae&show_icons=true&count_private=true&hide_border=true" style="height:180px;border-radius:50px;" />
+</span>
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&reversal=true&height=100&section=footer)
   
