@@ -12,6 +12,14 @@
 
 <div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="58" height="58" /><img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="58" height="58" /><img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="58" height="58" /><img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="58" height="58" /></div>  
 </div>
+
+<a href="https://github.com/devxb/gitanimals">
+  <img
+    src="https://render.gitanimals.org/lines/overtae?pet-id=591053207981716371"
+    width="700"
+    height="200"
+  />
+</a>
     
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&reversal=true&height=100&section=footer)
   
